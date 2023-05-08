@@ -1,5 +1,3 @@
-es (23 sloc)  393 Bytes
-
 
 body {
     background-color: pink;
@@ -26,4 +24,7 @@ table {
             width: 50%;
             padding: 10px;
             text-align: center;
+}
+.error {
+color: red;
 }
